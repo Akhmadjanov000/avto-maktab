@@ -11,6 +11,4 @@ public class CalculateResults {
     private int id;
     private int correct;
     private int incorrect;
-    private String fname;
-    private String lname;
 }
